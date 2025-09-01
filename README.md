@@ -1,10 +1,3 @@
-Perfect 🚀 — adding **badges (icons)** and a **license section** will make your README more professional and visually appealing.
-
-Here’s an upgraded **`README.md`** for your repo with badges and an MIT license:
-
----
-
-```markdown
 # Expression Converter: Client–Server TCP Application
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)  
