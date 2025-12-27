@@ -20,7 +20,7 @@
 | <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="https://github.com/rishikr507.png" width="100" height="100"> | <img src="https://placehold.net/avatar-3.pngg" width="100" height="100"> |
 |:---:|:---:|:---:|
 | **Prashant Kumar Mishra** | **Rishi Kumar** | **Siddharth Porwal** |
-| [@prashant-mishra-22](https://github.com/prashant-mishra-22) | [@rishikr507](https://github.com/rishikr507) | [@your-siddharth-id](https://github.com/) |
+| [@prashant-mishra-22](https://github.com/prashant-mishra-22) | [@rishikr507](https://github.com/rishikr507) | [@siddharth-id](https://github.com/) |
 
 </div>
 
