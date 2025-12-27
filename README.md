@@ -615,7 +615,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have a feature request? Please open an issue on GitHub or submit a pull request. Contributions are welcome!
 
-**Made with ❤️ **
+**Made with ❤️**
 
 [Prashant Kumar Mishra](https://github.com/prashant-mishra-22) • 
 [Rishi Kumar](https://github.com/rishikr507) • 
