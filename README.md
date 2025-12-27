@@ -31,13 +31,13 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Socket Programming](https://img.shields.io/badge/Socket-TCP%2FIP-orange)](https://docs.python.org/3/library/socket.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/Expression-Conversion-Server?style=social)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/Expression-Conversion-Server?style=social)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/Expression-Conversion-Server)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/Expression-Conversion-Server)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/Expression-Conversion-Server)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/commits/main)
-[![Code Size](https://img.shields.io/github/languages/code-size/prashant-mishra-22/Expression-Conversion-Server)](https://github.com/prashant-mishra-22/Expression-Conversion-Server)
-[![Contributors](https://img.shields.io/github/contributors/prashant-mishra-22/Expression-Conversion-Server)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=social)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=social)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/commits/main)
+[![Code Size](https://img.shields.io/github/languages/code-size/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)
+[![Contributors](https://img.shields.io/github/contributors/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/graphs/contributors)
 
 </div>
 
@@ -242,8 +242,8 @@ Lowest:  + - (Precedence: 1)
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/prashant-mishra-22/Expression-Conversion-Server.git
-cd Expression-Conversion-Server
+git clone https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp.git
+cd infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp
 ```
 
 #### **2. Check Python Version**
@@ -595,10 +595,10 @@ This implementation provides a solid foundation for more advanced expression pro
 
 ## 🌟 Star this repository if you found it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/Expression-Conversion-Server?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/Expression-Conversion-Server?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/Expression-Conversion-Server?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/Expression-Conversion-Server?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/Expression-Conversion-Server/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/infix-postfix-prefix-conversion-based-on-client-server-architecture-using-tcp/pulls)
 
 ## 📄 License
 
